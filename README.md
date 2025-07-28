@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=deT74QnmbuE&ab_channel=Allunen
+
 # Opintorekisteri - Sovelluksen dokumentaatio
 
 Tämä ohjelma on suunniteltu hallinnoimaan opiskelijoiden, opintojaksojen ja niiden arviointien tietoja. Sovellus on toteutettu web-pohjaisena palvelimena, joka käyttää Node.js- ja Express-kehikkoa sekä MySQL-tietokantaa taustalla. Alla kuvataan ohjelman toiminta, rakenne ja käyttöohjeet.
